@@ -1,5 +1,9 @@
 # Changelog
 
+## REV 004
+
+Visualisation of the MSE
+
 ## REV 003
 
 Partial Derivatives,
