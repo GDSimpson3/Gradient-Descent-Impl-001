@@ -1,5 +1,10 @@
 # Changelog
 
+## REV 003
+
+Partial Derivatives,
+Gradient Descent Function
+
 ## REV 002
 
 MeanSquaredError (MSE) Calculator,
